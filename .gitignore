@@ -1,0 +1,5 @@
+*.pak
+*~
+.DS_Store
+*.ignore
+Thumbs.db*

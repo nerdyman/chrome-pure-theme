@@ -1,0 +1,37 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "Pure Decorated",
+	"description": "A theme inspired by pure-syntax, with active tab decorations.",
+	"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"theme": {
+		"colors": {
+			"bookmark_text": [242, 242, 242],
+
+			"frame": [17, 14, 37],
+			"frame_inactive": [23, 23, 48],
+			"frame_incognito": [17, 14, 37],
+			"frame_incognito_inactive": [60, 64, 67],
+
+			"tab_background_text": [181, 181, 204],
+			"tab_background_text_inactive": [152, 152, 167],
+			"tab_background_text_incognito": [181, 181, 204],
+			"tab_background_text_incognito_inactive": [152, 152, 167],
+			"tab_text": [255, 255, 255],
+
+			"toolbar": [39, 39, 63],
+
+			"ntp_background": [17, 14, 37],
+			"ntp_text": [255, 255, 255]
+		},
+
+		"images": {
+			"theme_toolbar": "images/theme_toolbar.png"
+		},
+
+		"tints" : {
+			"buttons": [-1, -1, 0.96]
+		}
+	}
+}
